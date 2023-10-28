@@ -1,0 +1,16 @@
+[
+  {
+    "name": "user.created",
+    "subscriptions": [
+      {
+        "name": "user.created.oniguiri-app"
+      },
+      {
+        "name": "user.created.customers-api"
+      },
+      {
+        "name": "user.created.users-api"
+      }
+    ]
+  }
+]
